@@ -1,14 +1,20 @@
 [
     {
-        "device_id": "d3ca9891049af319",
-        "key": "1234",
+        "device_id": "device123",
+        "key": "key12345",
         "expirydate": "31-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d3ca9891049af319",
+        "key": "mykey1111",
+        "expirydate": "15-12-2025",
         "Allowoffline": false
     }
 ]
