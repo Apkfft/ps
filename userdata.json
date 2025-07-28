@@ -19,5 +19,12 @@
         "password": "1234",
         "expirydate": "15-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bd59cf064a1c13c6",
+        "username": "nebir",
+        "password": "1234",
+        "expirydate": "15-12-2025",
+        "Allowoffline": false
     }
 ]
